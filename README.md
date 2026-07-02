@@ -24,4 +24,4 @@ An advanced networking research project demonstrating secure traffic encapsulati
 * **Mission:** Real-time VLESS/Reality implementation, packet-entropy smoothing, and cross-platform TUN routing under high-pressure network restrictions.
 
 ---
-<img src="https://media.tenor.com/FW6TPZzgJfsAAAAi/shushing.gif" width="25" align="absmiddle"/> **Secure Contact:** [Telegram](https://t.me/твой_юзернейм)
+<img src="https://media.tenor.com/FW6TPZzgJfsAAAAi/shushing.gif" width="25" align="absmiddle"/> **Secure Contact:** [Telegram](https://t.me/clob88)
