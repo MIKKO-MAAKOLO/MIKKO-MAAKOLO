@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Egor (MIKKO-MAAKOLO)</h1>
-<h3 align="center">InfoSec Student | Junior SOC Analyst</h3>
+<h1 align="center">Hi, I'm MIKKO 👋</h1>
 
 <p align="center">
-  I'm a 3rd-year Information Security student focusing on network security, Linux infrastructure, and practical backend development. 
+  Just a student diving into Information Security. I use this space to store my pet projects, figure out how networks and security mechanisms work under the hood, and practice my skills.
 </p>
 
 ---
@@ -17,12 +16,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🔭 What I'm working on
-- 🔐 Practicing enumeration and exploitation on **HackTheBox** & **TryHackMe**.
-- ⚙️ Analyzing open-source C++ clients to understand data protection and privacy mechanisms.
-- 🌐 Developing **Maakolo Network** (a team-based VPN/proxy service backend).
+### 🔭 What I'm currently into
+- 🌐 Building **Maakolo Network** — a custom VPN project to practice networking and Python backend.
+- ⚙️ Digging into open-source C++ code to see how privacy is implemented in real apps.
+- 🔐 Playing around on HackTheBox and TryHackMe in my free time.
 
-### 📫 Let's connect
+### 📫 Contact
 <p align="left">
   <a href="https://t.me/clob88">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
