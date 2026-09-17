@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm MIKKO 👋</h1>
 
 <p align="center">
-  Just a student diving into Information Security. I use this space to store my pet projects, figure out how networks and security mechanisms work under the hood, and practice my skills.
+   A student diving into Information Security. I use this space to store my pet projects, figure out how networks and security mechanisms work under the hood, and practice my skills.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 </p>
 
 ### 🔭 What I'm currently into
-- 🌐 Building **Maakolo Network** — a custom VPN project to practice networking and Python backend.
+- 🌐 Building **Maakolo Network** with a team of guys - a custom VPN project to practice networking and Python backend.
 - ⚙️ Digging into open-source C++ code to see how privacy is implemented in real apps.
 - 🔐 Playing around on HackTheBox and TryHackMe in my free time.
 
