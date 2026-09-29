@@ -2,7 +2,7 @@
   <img src="./assets/header.jpg" alt="Maakolo banner" width="100%">
 </p>
 
-# 👋Hi, I'm Egor
+# 👋Hi
 
 3rd-year information security student focused on Blue Team and infrastructure defense.
 
